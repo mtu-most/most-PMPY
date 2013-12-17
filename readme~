@@ -1,0 +1,73 @@
+MOST Push-Me-Pull-You 3D printer extruder drive
+
+This design was developed as part of a project with the Michigan Tech Open Sustainability Technology Research Group http://www.appropedia.org/Category:MOST It is released under CC-BY-SA and was written primarily by Jerry Anzalone.
+
+Printed Parts (count required):
+motor end (1) (two different designs available) 
+output_end_MkVII (1)
+bearing_yoke_mk7 (1)
+arm_mk7_inlet_pivot(1)
+arm_mk7_inlet_spring(1)
+idler_shaft (2)
+input_half_4.62 (1)
+output_half_4.62 (1)
+Planet_4.62 (1)
+Planet_4.62 (3)
+carrier_MkVII_4.62 (1)
+
+Non-printed parts (count):
+M5 x 50mm hex-head cap screw (1)
+M5 nut (1)
+mk7 drive gear (1)
+M3 x 8mm set screw (1)
+M3 nut (4)
+M4 x 16mm socket head cap screw (3)
+M4 nylock nut (3)
+M4 flat washer (9)
+624zz bearing (3)
+625 bearing (2)
+M4 x 6mm aluminum standoff (2)
+M4 nut (2)
+4mm OD x 2mm ID teflon tubing of sufficient length for project
+NEMA17 motor (1)
+M3 x 12mm socket head cap screw (4)
+M3 flat washer (8)
+M3 x 45mm socket head cap screw (3)
+M3 x 25mm socket head cap screw (1)
+~25mm x ~10mm stiff compression spring (1)
+608zz bearing (2)
+
+Instructions
+Clean up the sun gear. Press an M3 nut into the set screw nut trap and start the set screw. Do not tighten the screw into the motor shaft recess. Test fit the gear by pressing it onto the motor shaft and then removing it.
+Clean up the motor end and attach to motor with M3 x 12mm screws each with an M3 washer.
+Clean up the output end and press an M3 nut in the nut trap near the pointed screw boss.
+Clean up the planetary carrier and press the M5 x 50mm screw through the central hole, seating the hex head in the recess provided. Press an M4 nylock nut into the nut traps.
+Clean up the plantary gears, carefully removing support material and protrusions from threads, Press a 624zz bearing into each of the gears. Push a M4 x 16mm screw through the bearing and place 3 M4 flat washers on the screw below the bearing. Screw the gears onto the planteray carrier, tightening each and then loosing them up.
+Work the sun gear in between the three planetary gears - insuring that the screws are very loose will facilitate this step.
+With the sun gear seated in the center of the three planetary gears, tighten the planetary gear screws.
+Work the planetary gears into the output half with the threaded portion of the M5 screw coming out opposite the annulus gear.
+Work the input half onto the other side of the planetary gears making sure the pointed case screw boss lines up with same on the output half.
+Line up the flat on the motor shaft with the set screw access port in the motor end then line up the set screw on the sun gear with the flat on the motor shaft. Press the transmission towards the motor so that the sun gear is pressed onto the motor shaft.
+Apply white lithium grease to the planet gears and exposed portions of the annulus gears.
+Put an M3 x 45mm screw with a washer into each of the three holes in the output end.
+Place a 625 bearing on the M5 screw protruding from the planetary carrier. Feed the M5 screw through the output end and align the three M3 x 45mm case screws such that the pointed screw bosses are all lined up.
+Place a washer and nut on each of the three case screws and carefully tighten the assembly.
+Tighten the set screw in the sun gear through access port provided in motor case.
+Clean up the arms and check that the 608zz bearings fit freely in their recesses.
+Place a 608zz bearing in the recess and align its ID with the idler shaft hole in the arm. Start the idler shaft and carefully pound into place - they're tight by design.
+Cut the 4mm OD x 2mm ID teflon tubing to the appropriate lengths. Cut two short (70-90mm) lengths for in-feed sides.
+Prepare threads in both ends of the longer pieces of tubing (Bowden sheath). (Taper ends and screw M4 nuts onto them while a 2mm drill bit is inside the tubing to keep walls from collapsing. Work slowly and back the nut off on occasion. Thread ~12mm on one side and 6mm on the other. Ream the tubing with the 2mm drill bit. Pass a length of 1.75mm filament through the tubing to check for obstruction and clear out shavings. Ream again if friction is felt.)
+Place an M4 x 6mm stand off in the recesses provided in the arms. Thread the 6mm long threaded portion into the stand offs. Ream the tubing with the 2mm drill bit again and pass a length of 1.75mm filament through the tube to check for obstructions and tight areas. Ream again if necessary.
+Prepare ~5mm of thread on one end of the short (in-feed) lengths of teflon tubing.
+Place an M4 nut in recess located in each arm and thread the in-feed tube into it.
+Feed a length of f1.75mm filament through the in-feed tube and Bowden sheath of one of the arms. Leave it in place for next several steps.
+Interlock the arms and push the M3 x 25mm screw with washer through the pivot hole. Place the screw in the hole nearest the pointed case screw boss on the output end and tighten the screw into the nut.
+Put the mk7 drive gear on the M5 screw, hobbed portion up. Do not tighten the set screw.
+Align the hobbed portion of the drive gear with the filament that was left in one of the arms. Once the filament is centered on the hob, tighten the set screw in the drive gear. Remove the filament.
+Place the output bearing spider on top of the output end, seat the remaining 625 bearing and thread the M5 nut on the M5 screw to secure in place.
+Drink a beverage of your choosing and celebrate.
+
+Notes on printing gears:
+Print them singly and slowly with lots of cooling.
+Print the planet gears on a raft to eliminate distortion of the teeth at the first layer.
+
